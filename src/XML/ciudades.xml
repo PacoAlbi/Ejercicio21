@@ -8,4 +8,23 @@
             <ano>1981</ano>
         </Fecha>
     </Hecho_Historico>
+
+    <Hecho_Historico Descripcion = "IBM da a conocer el PC">
+        <Fecha>
+            <dia>12</dia>
+            <mes>8</mes>
+            <ano>1981</ano>
+        </Fecha>
+    </Hecho_Historico>
+
+    <Hecho_Historico Descripcion = "IBM da a conocer el PC">
+        <Fecha>
+            <dia>12</dia>
+            <mes>8</mes>
+            <ano>1981</ano>
+        </Fecha>
+    </Hecho_Historico>
+
+
+
 </Hechos_Historicos>
